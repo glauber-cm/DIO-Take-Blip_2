@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrigoNoTabuleiro", "TrigoNoTabuleiro\TrigoNoTabuleiro.csproj", "{5320774E-3C43-4D51-92E3-36CC1043646F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5320774E-3C43-4D51-92E3-36CC1043646F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5320774E-3C43-4D51-92E3-36CC1043646F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5320774E-3C43-4D51-92E3-36CC1043646F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5320774E-3C43-4D51-92E3-36CC1043646F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B946B3FC-9929-4E03-B269-B8A1230FCA6F}
+	EndGlobalSection
+EndGlobal
