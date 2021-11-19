@@ -1,0 +1,3 @@
+##Criando APP simples de cadastro de séries
+DESCRIÇÃO: Aprenda como criar um algoritmo simples de cadastro de séries para praticar seus conhecimentos de orientação a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar recursos de coleção.
+O QUE FOI FEITO: Foi criado classe,repositorio e um CRUD para Filme e o Menu foi colocado em uma classe separada na pasta de UI.
